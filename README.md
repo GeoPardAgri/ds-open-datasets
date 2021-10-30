@@ -1,1 +1,1 @@
-# open-datasets
+# GeoPard Open Datasets (DS)
